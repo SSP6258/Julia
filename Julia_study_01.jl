@@ -8,7 +8,7 @@ Julia_study_01:
 function fun_1()
     Array_1 = ["Hi", "Julia"]
     for i in Array_1
-        println(i)
+        println(i) #= Test =#
     end
 end
 
