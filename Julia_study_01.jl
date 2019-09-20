@@ -12,4 +12,4 @@ function fun_1()
     end
 end
 
-fun_1()
+fun_1() #= Test 1 =#
